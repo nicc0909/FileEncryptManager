@@ -22,14 +22,18 @@ This project features a file management system with enhanced encryption capabili
 - Bcrypt
 - Json
 
-This file manager stands out for its focus on security and user-friendly interface, making it suitable for managing sensitive files with ease and confidence.
-
-
-to make this program work, you will need to install the following librerire.
+The following commands must be executed to install the dipedences.
 
     > pip install ttkbootstrap 
     > pip install Pillow 
     > pip install cryptography
     > pip install bcrypt
+
+This file manager stands out for its focus on security and user-friendly interface, making it suitable for managing sensitive files with ease and confidence.
+
+initial password : 1234
+
+    
+
 
 

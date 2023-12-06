@@ -1,6 +1,7 @@
 # File Encryption Manager
-<img width="341" alt="Screenshot 2023-12-06 115221" src="https://github.com/nicc0909/FileEncryptManager/assets/82878594/04fabb87-8212-4c6f-9ce0-a24c126dadab">
-
+<div style="justify-content: center">
+    <img width="341" alt="Screenshot 2023-12-06 115221" src="https://github.com/nicc0909/FileEncryptManager/assets/82878594/04fabb87-8212-4c6f-9ce0-a24c126dadab">
+</div>
 This project features a file management system with enhanced encryption capabilities. Built using Python, it incorporates libraries such as Tkinter and Cryptography to offer a graphical user interface and secure file handling.
 
 ## Key Features:
